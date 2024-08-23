@@ -61,16 +61,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDooSUGSf63Ghq02_iIhtnmwMDs4HlWS6c',
-    appId: '1:406099696497:ios:acd9c8e17b5e620e3574d0',
-    messagingSenderId: '406099696497',
-    projectId: 'flutterfire-e2e-tests',
-    databaseURL:
-    'https://flutterfire-e2e-tests-default-rtdb.europe-west1.firebasedatabase.app',
-    storageBucket: 'flutterfire-e2e-tests.appspot.com',
-    iosClientId:
-    '406099696497-taeapvle10rf355ljcvq5dt134mkghmp.apps.googleusercontent.com',
-    iosBundleId: 'io.flutter.plugins.firebase.tests',
+    apiKey: 'AIzaSyCYnXiQky3hnTJ7o6HQv58bUt6RuwuHrDQ',
+    appId: '1:244000499139:ios:31a50d8801e24bf10d8976',
+    messagingSenderId: '244000499139',
+    projectId: 'chatzy-958ea',
+    // databaseURL:
+    // 'https://flutterfire-e2e-tests-default-rtdb.europe-west1.firebasedatabase.app',
+    storageBucket: 'chatzy-958ea.appspot.com',
+    // iosClientId:
+    // '406099696497-taeapvle10rf355ljcvq5dt134mkghmp.apps.googleusercontent.com',
+    // iosBundleId: 'io.flutter.plugins.firebase.tests',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
